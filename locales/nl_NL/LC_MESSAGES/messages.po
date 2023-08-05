@@ -146,13 +146,13 @@ msgid "Infrastructure"
 msgstr "Infrastructuur"
 
 msgid "Signalling"
-msgstr "Seinen"
+msgstr "Seinen & treinbeïnvloeding"
 
 msgid "Maxspeeds"
 msgstr "Maximum snelheden"
 
 msgid "Electrification"
-msgstr ""
+msgstr "Elektrificatie"
 
 msgid "Halt"
 msgstr "Halte"
